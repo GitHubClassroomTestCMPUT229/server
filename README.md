@@ -1,5 +1,5 @@
 # server
 A repo to sketch out a server for CMPUT229
 
-# Sketch  
+### Server Sketch  
 ![server](server.png)  
